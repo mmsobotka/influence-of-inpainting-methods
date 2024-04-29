@@ -4,6 +4,9 @@
 The code will be made available upon paper acceptance.
 
 ## Datasets Used
+
+[CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
 [CelebA-HQ](https://github.com/tkarras/progressive_growing_of_gans)
 
 [LFW](https://vis-www.cs.umass.edu/lfw/)
