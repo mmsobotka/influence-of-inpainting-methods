@@ -7,9 +7,11 @@ The code will be made available upon paper acceptance.
 
 [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
+## Datasets Used
+
 [CelebA-HQ](https://github.com/tkarras/progressive_growing_of_gans)
 
-[LFW](https://vis-www.cs.umass.edu/lfw/)
+[LFW-funneled](https://vis-www.cs.umass.edu/lfw/)
 
 ## Pre-trained Models
 Pre-trained models were utilized from the official repositories:
