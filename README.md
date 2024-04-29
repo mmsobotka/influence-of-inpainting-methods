@@ -3,7 +3,7 @@
 ## Code Availability
 The code will be made available upon paper acceptance.
 
-## Datasets Used
+## Datasets Mentioned
 
 [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
