@@ -1,5 +1,8 @@
 # Influence of Inpainting Methods on Facial Features Reconstruction and Face Recognition
 
+## Paper
+The paper will be made available upon acceptance.
+
 ## Code Availability
 The code will be made available upon paper acceptance.
 
